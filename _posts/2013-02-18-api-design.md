@@ -156,4 +156,4 @@ As a developer, I like seeing the version of the api on the URL rather than in t
 With the code structure and the namespacing introduced above in the presenters and the controller, we can now release new versions of our API along side the old ones. We can apply our namescoping to our models, controllers, presenters, and specs.
 </p>
 
-The other aspecty will be presented in follow-up posts.
+I will talk about the other aspects of API desing in follow-up posts.
